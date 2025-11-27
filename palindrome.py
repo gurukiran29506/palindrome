@@ -7,7 +7,7 @@ if len(sys.argv)==2:
 else:
   name = "gadag"
 
-if name == name[:;-1]:
+if name == name[::-1]:
   print(f"{name} is a palindrome")
 
 else:
